@@ -81,7 +81,7 @@ def adding_matz
         }
      }
 
-ne
+programmer_hash[]
 end
 
 def changing_alan
