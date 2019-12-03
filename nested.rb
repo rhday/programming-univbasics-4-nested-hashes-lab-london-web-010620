@@ -15,7 +15,7 @@ def hopper
           :languages => ["C"]
         }
      }
-expect(alan_kay_is_known_for).to eq("Object Orientation")
+
 end
 
 def alan_kay_is_known_for
